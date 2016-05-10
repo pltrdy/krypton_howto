@@ -1,4 +1,5 @@
 # Krypton How To Mine
+## TL;DR look bat folder https://github.com/pltrdy/krypton_howto/tree/master/bat
 ## Solo Mining
 ### Prerequisites
 1) Download GKR
