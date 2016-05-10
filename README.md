@@ -1,7 +1,7 @@
 # Krypton How To Guides
 ## Guides
 * [How To Mine](https://github.com/pltrdy/krypton_howto/blob/master/howto_mine.md)
-* [How To Use (and backup) Wallet](https://github.com/pltrdy/krypton_howto/blob/master/howto_mine.md)
+* [How To Use (and backup) Wallet](https://github.com/pltrdy/krypton_howto/blob/master/howto_usewallet.md)
 * [Usefull .bat scripts](https://github.com/pltrdy/krypton_howto/tree/master/bat)
 
 ## What is Krypton?
